@@ -1,0 +1,3 @@
+The program can be run by make in the directory it is in then ./a.out 
+It does not take in any file names but in the main function in sammys.cpp, the file can be changed there. The program takes the rules of inference defined in NatDed.cpp and
+ applies it to sammys.kb in order to find the result C2W. The output is given in sammys.txt.

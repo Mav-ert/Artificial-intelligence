@@ -1,0 +1,67 @@
+
+ number satisfied: 0
+ calls to DPLL:1
+{NSWB: 1}
+ number satisfied: 1
+ calls to DPLL:2
+{NSWB: 1}{NSWG: 0}
+ number satisfied: 6
+ calls to DPLL:3
+{NSWR: 0}{NSWB: 1}{NSWG: 0}
+ number satisfied: 10
+ calls to DPLL:4
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTB: 1}
+ number satisfied: 11
+ calls to DPLL:5
+{NSWR: 0}{NSWB: 1}{NSWG: 0}{NTB: 1}{NTG: 0}
+ number satisfied: 16
+ calls to DPLL:6
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}
+ number satisfied: 20
+ calls to DPLL:7
+{NSWR: 0}{NSWB: 1}{NSWG: 0}{NTB: 1}{NTR: 0}{NTG: 0}{QB: 0}
+ number satisfied: 25
+ calls to DPLL:8
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}
+ number satisfied: 26
+ calls to DPLL:9
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{QR: 0}
+ number satisfied: 28
+ calls to DPLL:10
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{QR: 0}{SAB: 0}
+ number satisfied: 34
+ calls to DPLL:11
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{QR: 0}{SAB: 0}{SAG: 0}
+ number satisfied: 38
+ calls to DPLL:12
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{QR: 0}{SAB: 0}{SAG: 0}{SAR: 1}
+ number satisfied: 39
+ calls to DPLL:13
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{QR: 0}{SAB: 0}{SAG: 0}{SAR: 1}{TB: 1}
+ number satisfied: 40
+ calls to DPLL:14
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{QR: 0}{SAB: 0}{SAG: 0}{SAR: 1}{TB: 1}{TG: 0}
+ number satisfied: 42
+ calls to DPLL:15
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{QR: 0}{SAB: 0}{SAG: 0}{SAR: 1}{TB: 1}{TG: 0}{TR: 0}
+ number satisfied: 43
+ calls to DPLL:16
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{QR: 0}{SAB: 0}{SAG: 0}{SAR: 1}{TB: 1}{TG: 0}{TR: 0}{VB: 0}
+ number satisfied: 46
+ calls to DPLL:17
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{VG: 1}{QR: 0}{SAB: 0}{SAG: 0}{SAR: 1}{TB: 1}{TG: 0}{TR: 0}{VB: 0}
+ number satisfied: 47
+ calls to DPLL:18
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{VR: 0}{QG: 1}{QR: 0}{VG: 1}{SAB: 0}{SAG: 0}{SAR: 1}{TB: 1}{TG: 0}{TR: 0}{VB: 0}
+ number satisfied: 49
+ calls to DPLL:19
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{QG: 1}{VR: 0}{VG: 1}{QR: 0}{SAB: 0}{SAG: 0}{SAR: 1}{TB: 1}{TG: 0}{TR: 0}{VB: 0}{WAB: 0}
+ number satisfied: 52
+ calls to DPLL:20
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{VR: 0}{QG: 1}{QR: 0}{VG: 1}{SAB: 0}{SAG: 0}{SAR: 1}{TB: 1}{TG: 0}{TR: 0}{VB: 0}{WAB: 0}{WAG: 1}
+ number satisfied: 53
+ calls to DPLL:21
+success
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{NTR: 0}{NTB: 1}{NTG: 0}{QB: 0}{VR: 0}{QG: 1}{QR: 0}{VG: 1}{SAB: 0}{SAG: 0}{SAR: 1}{TB: 1}{TG: 0}{TR: 0}{VB: 0}{WAB: 0}{WAG: 1}{WAR: 0}
+without unit clause heuristic
+ number satisfied: 55

@@ -1,0 +1,48 @@
+this was with Astar with heuristic H2() and MAX_ITERS=100000
+
+file        S B N     outcome    
+bwchp01.bwp 3 5 10000 success! Iterations: 16 Goal Tests:97 max queue size:35 Depth:9
+bwchp02.bwp 3 5 10000 success! Iterations: 31 Goal Tests:191 max queue size:57 Depth:7
+bwchp03.bwp 3 5 10000 success! Iterations: 14 Goal Tests:84 max queue size:34 Depth:8
+bwchp04.bwp 3 5 10000 success! Iterations: 38 Goal Tests:229 max queue size:75 Depth:8
+bwchp05.bwp 3 5 10000 success! Iterations: 87 Goal Tests:522 max queue size:153 Depth:8
+bwchp06.bwp 3 10 10000 success! Iterations: 7694 Goal Tests:46169 max queue size:14792 Depth:20
+bwchp07.bwp 3 10 10000 failed
+bwchp08.bwp 3 10 10000 success! Iterations: 4358 Goal Tests:26153 max queue size:7896 Depth:15
+bwchp09.bwp 3 10 10000 success! Iterations: 20277 Goal Tests:121663 max queue size:32873 Depth:23
+bwchp10.bwp 3 10 10000 failed
+bwchp11.bwp 3 20 10000 failed
+bwchp12.bwp 3 20 10000 failed
+bwchp13.bwp 3 20 10000 failed
+bwchp14.bwp 3 20 10000 failed
+bwchp15.bwp 3 20 10000 failed
+bwchp16.bwp 5 5 10000 success! Iterations: 8 Goal Tests:165 max queue size:55 Depth:4
+bwchp17.bwp 5 5 10000 success! Iterations: 5 Goal Tests:110 max queue size:60 Depth:5
+bwchp18.bwp 5 5 10000 success! Iterations: 6 Goal Tests:122 max queue size:35 Depth:4
+bwchp19.bwp 5 5 10000 success! Iterations: 181 Goal Tests:3625 max queue size:883 Depth:7
+bwchp20.bwp 5 5 10000 success! Iterations: 33 Goal Tests:663 max queue size:268 Depth:6
+bwchp21.bwp 5 10 10000 success! Iterations: 824 Goal Tests:16482 max queue size:5134 Depth:13
+bwchp22.bwp 5 10 10000 success! Iterations: 3585 Goal Tests:71713 max queue size:31660 Depth:15
+bwchp23.bwp 5 10 10000 success! Iterations: 278 Goal Tests:5562 max queue size:2775 Depth:15
+bwchp24.bwp 5 10 10000 success! Iterations: 1409 Goal Tests:28184 max queue size:13646 Depth:15
+bwchp25.bwp 5 10 10000 success! Iterations: 6720 Goal Tests:134410 max queue size:50750 Depth:15
+bwchp26.bwp 5 20 10000 failed
+bwchp27.bwp 5 20 10000 failed
+bwchp28.bwp 5 20 10000 failed
+bwchp29.bwp 5 20 10000 failed
+bwchp30.bwp 5 20 10000 failed
+bwchp31.bwp 10 5 10000 success! Iterations: 3 Goal Tests:349 max queue size:100 Depth:4
+bwchp32.bwp 10 5 10000 success! Iterations: 4 Goal Tests:420 max queue size:150 Depth:4
+bwchp33.bwp 10 5 10000 success! Iterations: 3 Goal Tests:296 max queue size:124 Depth:4
+bwchp34.bwp 10 5 10000 success! Iterations: 6 Goal Tests:610 max queue size:132 Depth:6
+bwchp35.bwp 10 5 10000 success! Iterations: 4 Goal Tests:424 max queue size:148 Depth:5
+bwchp36.bwp 10 10 10000 failed
+bwchp37.bwp 10 10 10000 success! Iterations: 17 Goal Tests:1574 max queue size:726 Depth:12
+bwchp38.bwp 10 10 10000 success! Iterations: 32 Goal Tests:2950 max queue size:1840 Depth:12
+bwchp39.bwp 10 10 10000 failed
+bwchp40.bwp 10 10 10000 success! Iterations: 692 Goal Tests:62310 max queue size:23456 Depth:12
+bwchp41.bwp 10 20 10000 failed
+bwchp42.bwp 10 20 10000 failed
+bwchp43.bwp 10 20 10000 failed
+bwchp44.bwp 10 20 10000 failed
+bwchp45.bwp 10 20 10000 failed

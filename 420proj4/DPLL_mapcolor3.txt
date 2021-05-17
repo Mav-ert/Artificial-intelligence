@@ -1,0 +1,3 @@
+{QB: 1}{SAB: 1}
+with unit clause heuristic
+not satisfiable

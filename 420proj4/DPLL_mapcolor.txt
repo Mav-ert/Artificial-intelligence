@@ -1,0 +1,15 @@
+ number satisfied: 0
+ calls to DPLL:1
+{NSWR: 0}{NSWB: 1}{NSWG: 0}{VB: 0}{SAB: 0}{QB: 0}
+ number satisfied: 24
+ calls to DPLL:3
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{SAB: 0}{VB: 0}{QB: 0}{NTR: 0}{NTB: 1}{NTG: 0}{WAB: 0}
+ number satisfied: 37
+ calls to DPLL:5
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{SAB: 0}{VB: 0}{QB: 0}{NTR: 0}{NTB: 1}{NTG: 0}{WAB: 0}{VR: 0}{QG: 1}{VG: 1}{QR: 0}{SAG: 0}{SAR: 1}{WAR: 0}{WAG: 1}
+ number satisfied: 51
+ calls to DPLL:9
+success
+{NSWB: 1}{NSWR: 0}{NSWG: 0}{SAB: 0}{VB: 0}{QB: 0}{NTR: 0}{NTB: 1}{NTG: 0}{WAB: 0}{QG: 1}{VR: 0}{QR: 0}{VG: 1}{SAG: 0}{SAR: 1}{WAR: 0}{WAG: 1}{TB: 1}{TR: 0}{TG: 0}
+ number satisfied 55 
+ with unit clause heuristic
