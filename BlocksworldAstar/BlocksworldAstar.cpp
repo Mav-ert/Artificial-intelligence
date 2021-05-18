@@ -55,6 +55,7 @@ bool BFS(Node* initial, Node* goal) {
 	return false;
 	
 }
+//compare function for the priority queue based on heuristic
 struct comp_nodes {
 	State* goal;
 
