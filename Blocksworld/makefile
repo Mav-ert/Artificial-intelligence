@@ -15,4 +15,5 @@ Node.o: Node.cpp Node.h
 	$(CC) -g -std=c++11 -c Node.cpp
 
 clean: 
-	rm -f *.o a.exe
+	-del -f *.o a.exe
+	

@@ -1,12 +1,15 @@
 This is a blocksworld problem solver that uses BFS.
-THIS IS IMPORTANT
-To start the program run 'make clean' in the command line while in directory.
-Then run 'make'. If an error pops out saying 
-'g++: error: BlocksworldBFS.o: No such file or directory
-make: *** [a.out] Error 1' 
+Problem: A BW problem instance is given as 2 states:an initial state and a goal state.  An example is shown below.  The operator for generating moves in this problem can only pick up the top block on any stack and move it to the top of any other stack.  Each action has equal (unit) cost.  The objective is to find a sequence of actions that will transform the initial state into the goal state (preferably with the fewest moves, hence the shortest path to the goal.)  
+example
 
-It still should have made a working a.out file. I am not sure why its not making the .o file. 
-Though the a.out file is made fine so running './a.out' will still run the program
+C
+B                         A
+A           ->         B  C 
+_  _  _                _  _  _
+initial state          goal state
+ABC;;                  B;CA
+To start the program run 'make clean' in the command line while in directory.
+Then run 'make'. then a.exe or a.out depending on the os
 
 
 It will ask you to input the initial state and the final state that is to be reached.
