@@ -3,7 +3,7 @@ CC = g++
 all: a.exe
 
 a.exe: BlocksworldAstar.o State.o Node.o
-	g++ BlocksworldS.o State.o Node.o
+	g++ BlocksworldAstar.o State.o Node.o
 
 BlocksworldAstar.o: BlocksworldAstar.cpp State.o Node.o
 	$(CC) -g -std=c++11 -c BlocksworldAstar.cpp State.o Node.o

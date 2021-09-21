@@ -9,6 +9,8 @@
         "list": "cpp",
         "xhash": "cpp",
         "xtree": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "array": "cpp",
+        "string": "cpp"
     }
 }

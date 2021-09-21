@@ -69,7 +69,7 @@ float State::heuristic(State& goal) {
 			}
 		}
 	}
-
+	cout<< h1<<endl;
 	return h1;
 }
 
