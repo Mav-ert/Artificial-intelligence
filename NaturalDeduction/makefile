@@ -15,4 +15,4 @@ parser.o: parser.cpp parser.hpp
 	$(CC) -g -std=c++11 -c parser.cpp
 
 clean: 
-	rm -f *.o a.out
+	-rm -f *.o a.out

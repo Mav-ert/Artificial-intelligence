@@ -118,8 +118,6 @@ int main() {
 	string filepath = "";
 	cout << "Input the path to the file" << endl;
 	cin >> filepath;
-
-
 	string line;
 	ifstream myfile;
 	myfile.open(filepath);
