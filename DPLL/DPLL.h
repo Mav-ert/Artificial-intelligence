@@ -8,7 +8,7 @@
 using namespace std;
 enum pbool
 {
-	FALSE, TRUE,  MAYBE, ERROR
+	FALSE, TRUE, MAYBE, ERROR
 };
 void getSymbols(set<string>& a, Expr* b);
 pbool operator!(pbool);

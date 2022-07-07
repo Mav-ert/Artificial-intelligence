@@ -143,7 +143,7 @@ bool DPLL(vector<Expr*> clauses, set<string>::const_iterator next_symbol, MODEL&
 		return false;
 	}
 	else if (check == ERROR) {
-		cout << "An error occured try to do better next time"<<endl;
+		cout << "oof. An error occured, try to do better next time." << endl;
 		return false;
 	}
 	if (unit) {
@@ -160,7 +160,6 @@ bool DPLL(vector<Expr*> clauses, set<string>::const_iterator next_symbol, MODEL&
 					model[a[0]->sub[1]->sym] = false;
 				}
 			}
-			
 		}
 		if (found) {
 			return DPLL(clauses, next_symbol, model, unit, counter);

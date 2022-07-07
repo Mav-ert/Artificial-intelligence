@@ -1,8 +1,8 @@
 CC = g++
 
-all: a.exe
+all: BlocksworldAstar.exe
 
-a.exe: BlocksworldAstar.o State.o Node.o
+BlocksworldAstar.exe: BlocksworldAstar.o State.o Node.o
 	g++ BlocksworldAstar.o State.o Node.o
 
 BlocksworldAstar.o: BlocksworldAstar.cpp State.o Node.o

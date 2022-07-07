@@ -6,7 +6,7 @@ then run ./a.out DPLL filename -unit or  ./a.out DPLL filename (for without the 
 
 Example ./a.out DPLL mapcolor.cnf
 or ./a.out DPLL mapcolor.cnf -unit
-a.exe DPLL filename -unit (in on windows)
+a.exe DPLL filename -unit (on windows)
 It should output the number of clauses satisfied by the model and then which call to the DPLL it was
 
 If it fails to find a valid model the final message should say unsatisfiable. 

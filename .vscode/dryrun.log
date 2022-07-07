@@ -5,7 +5,8 @@ make: c:\Users\User\OneDrive\Documents\GitHub\Artificial-intelligence\makefile: 
  
 make: *** No rule to make target 'c:\Users\User\OneDrive\Documents\GitHub\Artificial-intelligence\makefile'.
 make: Failed to remake makefile 'c:\Users\User\OneDrive\Documents\GitHub\Artificial-intelligence\makefile'.
-make: *** No targets specified and no makefile found.  Stop.
  
 make: Leaving directory 'c:/Users/User/OneDrive/Documents/GitHub/Artificial-intelligence'
+ 
+make: *** No targets specified and no makefile found.  Stop.
  
